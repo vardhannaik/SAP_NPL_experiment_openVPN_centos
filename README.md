@@ -29,7 +29,7 @@ So if you have two clients connected to the public IP, SAP NPL is connected.
 Example 1: Your Laptop with client id say 10.8.0.10
 SuSE VM : your VM hosting NPL with client id say 10.8.0.6
 
-![alt text](https://github.com/vardhannaik/SAP_NPL_experiment_openVPN_centos/blob/main/NPL.jpg?raw=true
+![alt text]https://github.com/vardhannaik/SAP_NPL_experiment_openVPN_centos/blob/main/NPL.jpg?raw=true
 
 
 
