@@ -12,11 +12,11 @@ https://www.digitalocean.com/community/tutorials/how-to-set-up-and-configure-an-
 https://serverfault.com/questions/570316/how-can-multiple-clients-of-an-openvpn-server-find-each-other
 
 "# Uncomment this directive to allow different
-# clients to be able to "see" each other.
-# By default, clients will only see the server.
-# To force clients to only see the server, you
-# will also need to appropriately firewall the
-# server's TUN/TAP interface.
+#clients to be able to "see" each other.
+#By default, clients will only see the server.
+#To force clients to only see the server, you
+#will also need to appropriately firewall the
+#server's TUN/TAP interface.
 client-to-client
 
 4c) Firewall nftables for tun0 with nat and masquerade for nftables.
