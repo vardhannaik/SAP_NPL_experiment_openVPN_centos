@@ -31,6 +31,8 @@ SuSE VM : your VM hosting NPL with client id say 10.8.0.6
 
 ![alt text](https://github.com/vardhannaik/SAP_NPL_experiment_openVPN_centos/blob/main/NPL.JPG?raw=true)
 
+![alt text](https://github.com/vardhannaik/SAP_NPL_experiment_openVPN_centos/blob/main/OPENVPN_onwindows.JPG?raw=true)
+
 
 
 
