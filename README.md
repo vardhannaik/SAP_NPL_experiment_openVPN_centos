@@ -3,7 +3,7 @@ Connecting the SAP developer Edition over OpenVPN
 
 One of the experiments I have successfuly tried is to do a OPENVPN on the SUSE VM acting a client.
 1) Step 1: setup NPL SAP Developer Edition https://blogs.sap.com/2019/07/01/as-abap-752-sp04-developer-edition-to-download/
-2) Step 2:  Harden Firewall using nftables for both tun0 and eth0 , see my github how to for eth0. https://github.com/vardhannaik/SAP_NPL_experiment_openVPN_centos
+2) Step 2:  Harden Firewall using nftables for both tun0 and eth0 , see my github how to for eth0. https://github.com/vardhannaik/nftables_centos
 3) Step 3: Have additional CA authority server, You can use a debian, Centos, Windows should also be possible
 https://www.digitalocean.com/community/tutorials/how-to-set-up-and-configure-a-certificate-authority-ca-on-centos-8
 4) Step 4: Configure OpenVPN for Centos server && windows as well as Suse VM as clients where NPL is hosted
