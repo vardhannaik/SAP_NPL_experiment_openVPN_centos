@@ -36,11 +36,7 @@ Windows connecting a SUSE linux VM hosted on debian via OPENVPN, secure and cert
 ![alt text](https://github.com/vardhannaik/SAP_NPL_experiment_openVPN_centos/blob/main/OPENVPN_onwindows.JPG?raw=true)
 
 
-Windows/Device like mobile [tun2] -----------------> OPEN VPN SERVER [ tun0] <---------------------SUSE VM hosting NPL [ tun0]
-SAP GUI                                                            /                                 \
-                                      eth0 Public IP--------------/                                   \-------------> Debian/Window non Public IP wan0, lo etc
-                                       /
-Internet------------------------------/
+![alt text](https://github.com/vardhannaik/SAP_NPL_experiment_openVPN_centos/blob/main/OpenVPN_SAPGUI.JPG?raw=true)
 
 
 
