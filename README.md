@@ -33,10 +33,10 @@ SuSE VM : your VM hosting NPL with client id say 10.8.0.6
 
 Windows connecting a SUSE linux VM hosted on debian via OPENVPN, secure and certificate driven
 
-Rather a no IP suse VM is now available to connect from your device securely anywhere
+
 ![alt text](https://github.com/vardhannaik/SAP_NPL_experiment_openVPN_centos/blob/main/OPENVPN_onwindows.JPG?raw=true)
 
-
+Rather a no IP suse VM is now available to connect from your device securely anywhere
 ![alt text](https://github.com/vardhannaik/SAP_NPL_experiment_openVPN_centos/blob/main/OpenVPN_SAPGUI.JPG?raw=true)
 
 
