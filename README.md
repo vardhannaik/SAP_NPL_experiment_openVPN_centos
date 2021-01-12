@@ -41,8 +41,7 @@ Rather a no IP suse VM is now available to connect from your device securely any
 
 Spinoff a Fiori Screen remotely as well by pointing Open VPN IP to the Suse VM instances in hosts file on WIndows
 
-![alt text](https://github.com/vardhannaik/SAP_NPL_experiment_openVPN_centos/blob/main/Fiori_remote.JPG?raw=true)
-
+![alt text](https://github.com/vardhannaik/SAP_NPL_experiment_openVPN_centos/blob/main/FIori_remote.JPG?raw=true)
 
 
 
