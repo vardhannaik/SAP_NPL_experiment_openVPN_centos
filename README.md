@@ -39,6 +39,10 @@ Windows connecting a SUSE linux VM hosted on debian via OPENVPN, secure and cert
 Rather a no IP suse VM is now available to connect from your device securely anywhere
 ![alt text](https://github.com/vardhannaik/SAP_NPL_experiment_openVPN_centos/blob/main/OpenVPN_SAPGUI.JPG?raw=true)
 
+Spinoff a Fiori Screen remotely as well by pointing Open VPN IP to the Suse VM instances in hosts file on WIndows
+
+![alt text](https://github.com/vardhannaik/SAP_NPL_experiment_openVPN_centos/blob/main/Fiori_remote.JPG?raw=true)
+
 
 
 
